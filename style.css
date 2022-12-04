@@ -1,0 +1,6 @@
+.home{
+    background-image: url(/img/cat1.jpg);
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+}
